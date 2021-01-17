@@ -1,0 +1,92 @@
+body {
+    background-color: #303952;
+    margin-top: 30px;
+    
+}
+.container h2 {
+    cursor: default;
+    text-align: center;
+    background-color: #596275;
+    color: ivory;
+    border-radius: 5px;
+    
+}
+
+form {
+    text-align: center;
+    background-color: ;
+    padding-top: 15px;
+    border-radius: 5px;
+}
+
+
+
+#new_task {
+    background-color: ivory;
+    color: #303952;
+    
+}
+#new_task:focus {
+    border: 2px solid #596275;
+
+}
+#add_btn {
+    background-color: #e15f41;
+    color: ivory;
+}
+
+.container h3{
+    cursor: default;
+    text-align: center;
+    background-color: #596275;
+    color: ivory;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    
+
+}
+
+/* #task_filter {
+    text-align: center;
+} */
+.new_section {
+    text-align: center;
+}
+
+.new_section input {
+    background-color: ivory;
+    color:  #303952;
+    /* border: 2px solid ; */
+}
+
+.new_section input:focus {
+    border: 2px solid #596275;
+
+}
+
+.new_section button {
+    background-color:  #e15f41;
+    color: ivory;
+    
+}
+.new_section ul {
+/*     background-color:  #596275;
+    border-radius: 5px; */
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: ivory;
+}
+
+.new_section ul li {
+    /* padding-left: 20%; */
+    text-align: center;
+    background-color:  #596275;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.new_section ul li a{
+    color: #e15f41;
+}
+
+
