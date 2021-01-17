@@ -7,7 +7,7 @@ with the basic concepts as well.
 **Functionalities**
 
 User can add tasks and also filter through them. On demand the user can also remove tasks separately and as well as individually.
-The browser save up tasks in the local storage so even after reloading the page no data is lost.
+The browser saves up tasks in the local storage so even after reloading the page, no data is lost.
 
 **What did I learn?**
 
