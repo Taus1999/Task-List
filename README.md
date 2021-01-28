@@ -1,7 +1,7 @@
 # Task-List
 
 Developed this task list with vanilla javascript and a little bit of html, css. 
-This is the the first project that I developed after just 3 days into Javascript. Got familiar
+This is one of the first projects that I developed after mastering Javascript. Got familiar
 with the basic concepts as well. 
 
 **Functionalities**
